@@ -25,7 +25,7 @@ $ cd metrictown
 Build the app using the Angular CLI command **ng build** with the options shown here:
 
 ````shell
-$ ng build --prod --output-path docs --base-href YourGitHubprojectname
+$ ng build --prod --output-path docs --base-href YourGitHubProjectName
 ````
 
 The name of my GitHub repo is **metrictown** so this is what my build command looks like.
