@@ -61,10 +61,11 @@ $ git push -u origin master
 # Pushes the changes in your local repository up to the remote repository 
 ````
 
-On the GitHub project page, configure it to publish from the docs folder.
-https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch
+On the GitHub project page, configure it to publish from the [docs folder](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch).
 
-You can see your Angular app deployed to GitHub Pages at https://redmotorrabbit.github.io/metrictown/
+You should see your Angular app deployed to GitHub Pages at https://**<user_name>**.github.io/**<project_name>**
+
+Here's mine. https://redmotorrabbit.github.io/metrictown/
 
 
 
