@@ -1,10 +1,7 @@
 ---
 published: true
 ---
----
-layout: post
-title: Hello Angular
----
+
 
 
 ## A New Post
