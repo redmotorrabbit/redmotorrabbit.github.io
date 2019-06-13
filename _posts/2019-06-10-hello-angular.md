@@ -67,5 +67,7 @@ You should see your Angular app deployed to GitHub Pages at `https://<user_name>
 
 Here's mine. <https://redmotorrabbit.github.io/metrictown/>
 
+![screenshot]({{ site.baseurl }}/images/metrictown1.png "hello, angular!")
+
 
 
